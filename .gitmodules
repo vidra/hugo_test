@@ -1,0 +1,4 @@
+[submodule "test/public"]
+	path = test/public
+	url = https://github.com/vidra/hugo_test.github.io.git
+	branch = main

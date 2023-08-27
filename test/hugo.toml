@@ -1,0 +1,5 @@
+baseURL = 'https://hugo_test.github.io'
+languageCode = 'en-us'
+title = 'hugo-test'
+theme="hello-friend-ng"
+
